@@ -20,7 +20,14 @@ render() {
   );
 }
 ```
+
 See full example [here](https://github.com/mu29/react-stepper/blob/master/example/example.js)
+
+4 classes had been added from the original work of InJung Chung [(@mu29)](http://mu29.github.io/) to customize the steps circles and titles easily in your project:
+- stepper-circle-completed
+- stepper-circle-unstarted
+- stepper-title-completed
+- stepper-title-unstarted
 
 ## API
 
